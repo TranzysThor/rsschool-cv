@@ -1,1 +1,2 @@
-# https://tranzysthor.github.io/rsschool-cv/cv
+# rsschool-cv
+https://tranzysthor.github.io/rsschool-cv/cv
