@@ -31,8 +31,12 @@ Having a lack of job experience, these __strengths__ will help me to learn new t
   * Belarussian
   * English
 ## Education
-**2019 - present** Belarussian State Technological University, BA
-                   **Faculty of Information Technology**
-                   **Specialty: Information Systems and Technology**
-**2020.06 - 2020.07** Coursera
-                   **Specialization Python for Everybody**
+**2019 - present**  
+Belarussian State Technological University, BA  
+**Faculty of Information Technology**  
+**Specialty: Information Systems and Technology**  
+**2020.06 - 2020.07**  
+Coursera  
+**Specialization Python for Everybody**
+## Level of English
+C1 (advanced)
