@@ -36,7 +36,6 @@ Having a lack of job experience, these __strengths__ will help me to learn new t
 Belarussian State Technological University, BA  
 **Faculty of Information Technology**  
 **Specialty: Information Systems and Technology**  
----
 **2020.06 - 2020.07**  
 Coursera  
 **Specialization Python for Everybody**
