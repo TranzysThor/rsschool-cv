@@ -1,0 +1,39 @@
+#me {
+    height: 361px;
+    width: 341px;
+}
+
+figure {margin-left: 25px;}
+
+figcaption {text-align: center;}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+aside {
+    float: left;
+    width: 22%;
+    padding-left: 15px;
+    margin-left: 15px;
+    background-color: dimgrey;
+    color: lightgrey;
+}
+
+.section-title {
+    border: 1px solid lightgrey;
+    text-align: center;
+    margin: 10px 15px 10px 0px;
+    font-size: 24px;
+}
+
+a:link {
+    text-decoration: none;
+    color: lightgrey;
+}
+
+a:hover {
+    color: lightblue;
+    text-decoration: underline;
+}
