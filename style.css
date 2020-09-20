@@ -1,3 +1,5 @@
+body {font-family: Tahoma;}
+
 #me {
     height: 361px;
     width: 341px;
@@ -19,13 +21,21 @@ aside {
     margin-left: 15px;
     background-color: dimgrey;
     color: lightgrey;
+    margin-right: 260px;
 }
 
 .section-title {
-    border: 1px solid lightgrey;
+    border: 2px solid lightgrey;
     text-align: center;
     margin: 10px 15px 10px 0px;
     font-size: 24px;
+}
+
+.main-title {
+    border: 2px solid dimgrey;;
+    text-align: center;
+    font-size: 24px;
+    margin: 0px 500px 10px 700px;
 }
 
 a:link {
@@ -36,4 +46,8 @@ a:link {
 a:hover {
     color: lightblue;
     text-decoration: underline;
+}
+
+article {
+    margin: 0px 500px 10px 700px;
 }
