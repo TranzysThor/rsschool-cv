@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Roboto;
+    src: url("font/RobotoCondensed-regular.ttf");
+}
+
+body {
+    font-family: Roboto;
+    color: lightseagreen;
+    background-color: lightyellow;
+}
+
+span {float: right; font-size: 18px;}
+
+#me {
+    height: 380px;
+    width: 340px;
+}
+
+figure {margin-left: 25px;}
+
+figcaption {text-align: center; font-size: 32px;}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+aside {
+    float: left;
+    width: 22%;
+    padding-left: 15px;
+    margin-left: 15px;
+    background-color: lightcoral;
+    color: lightblue;
+    margin-right: 260px;
+}
+
+.section-title {
+    border: 2px solid lightblue;
+    text-align: center;
+    margin: 10px 15px 10px 0px;
+    font-size: 24px;
+}
+
+.main-title {
+    border: 2px solid lightblue;
+    text-align: center;
+    font-size: 24px;
+    margin: 0px 500px 10px 700px;
+}
+
+a:link {
+    text-decoration: none;
+    color: lightblue;
+}
+
+a:hover {
+    color: lightgrey;
+    text-decoration: underline;
+}
+
+article {margin: 0px 500px 10px 700px;}
